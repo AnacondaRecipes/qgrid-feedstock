@@ -1,1 +1,1 @@
-"${PREFIX}/bin/jupyter-nbextension" disable qgrid --py --sys-prefix > /dev/null 2>&1
+"${PREFIX}/bin/jupyter-nbextension" disable --py qgrid --sys-prefix > /dev/null 2>&1
